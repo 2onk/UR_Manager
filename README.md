@@ -1,6 +1,8 @@
 # UR_Manager
 Universal Robots fleet manager
 
+OpenSourceCode will be released later on. 
+
 This tool will help you to automate your supportfile/backup process with predefine time intervalls. 
 
 1. install .msix package
