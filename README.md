@@ -1,8 +1,8 @@
 # UR_Manager
 
-
-Please note that this software is not an official Product released from the company Universal Robots!
-
+----------------------------------------------------------------------------------------------------------
+Please note that this software is not an official Product from and not related to the company Universal Robots!
+----------------------------------------------------------------------------------------------------------
 
 
 
