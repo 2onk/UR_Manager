@@ -1,4 +1,6 @@
 # UR_Manager
+Please note that this software is not an official Product released from the company Universal Robots!
+
 Universal Robots fleet manager
 
 OpenSourceCode will be released later on. 
