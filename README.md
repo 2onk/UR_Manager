@@ -22,9 +22,15 @@ This tool will help you to automate your supportfile/backup process with predefi
 
 -------------------------------------------------------------------------------------------------
 3. Add your robots with your Robotname, and Ip.
-![image](https://github.com/2onk/UR_Manager/assets/122785824/cfe215e4-5490-4447-9901-19bf60aa555d)
+![image](https://github.com/2onk/UR_Manager/assets/122785824/14c6c68d-90eb-4869-95e7-284fd18d3c57)
+
 
 -------------------------------------------------------------------------------------------------
 4. Start and Stop with the Start Backup button your automated backup tool.
 5. All logs can be found in the settings tab
-![image](https://github.com/2onk/UR_Manager/assets/122785824/3737c0f3-0f6a-4a75-9814-2219921a75a8)
+![image](https://github.com/2onk/UR_Manager/assets/122785824/2a389a38-568c-4b60-ab64-1c1040c9e5c3)
+
+
+-------------------------------------------------------------------------------------------------
+New: Added robot Import Export
+![image](https://github.com/2onk/UR_Manager/assets/122785824/b11699b7-c277-4fa8-b790-6bbdefd28fae)
