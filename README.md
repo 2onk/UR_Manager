@@ -14,7 +14,7 @@ OpenSourceCode will be released later on.
 This tool will help you to automate your supportfile/backup process with predefined time intervalls. 
 
 
-NEW: It is now possible to update robots with a .urup file remotely
+NEW: It is now possible to update robots with a .urup file remotely (only with connected USB -Stick!!!!)
 
 
 - first of all install .msix package
