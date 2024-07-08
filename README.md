@@ -8,11 +8,14 @@ Please note that this software is not an official Product from and not related t
 
 
 Universal-Robot-fleet-manager
-
 OpenSourceCode will be released later on. 
 
-1. This tool will help you to automate your supportfile/backup process with predefined time intervalls. 
+
+This tool will help you to automate your supportfile/backup process with predefined time intervalls. 
+
+
 NEW: It is now possible to update robots with a .urup file remotely
+
 
 - first of all install .msix package
 - please find informations in the .pdf file how to install the certificate and the requirements
