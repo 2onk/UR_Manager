@@ -55,6 +55,8 @@ Added: Remote update functionallity
 Change to Settings and choose Update.
 Browse your .urup file and start remote update by clicking on Button Update Robots. 
 
+*Added http request with CPU information and timestamp
+
 ![image](https://github.com/2onk/UR_Manager/assets/122785824/91ee94d1-0423-4983-b82a-3c27523cd11b)
 
 
