@@ -14,11 +14,23 @@ OpenSourceCode will be released later on.
 This tool will help you to automate your supportfile/backup process with predefined time intervalls. 
 
 
-NEW: It is now possible to update robots with a .urup file remotely (only with connected USB -Stick!!!!)
+NEW: Flexible Ethernet/IP generator, including .script, .urp and .eds for any PLC
 
 
 - first of all install .msix package
 - please find informations in the .pdf file how to install the certificate and the requirements
+
+-------------------------------------------------------------------------------------------------
+Added new functionality: 
+- Click and generate your Flexible Ethernet/IP interface
+- it will generate a robot program .urp, .script and a fully importable .eds for any PLC
+- simply add your needed Byte configuration
+- give your Bits your custom label
+- Click the button to generate ... thats it. 
+
+![image](https://github.com/user-attachments/assets/a4818740-2df4-40b7-8e8b-7d31a6d206f1)
+
+
 -------------------------------------------------------------------------------------------------
 1. Please choose first a savepath for your Supportfile
 2. Choose your prefered Backup Intervall
@@ -46,7 +58,7 @@ Robot Import/Export, password is not going to be exposed!
 ![image](https://github.com/2onk/UR_Manager/assets/122785824/b11699b7-c277-4fa8-b790-6bbdefd28fae)
 
 -------------------------------------------------------------------------------------------------
-Added: Remote update functionallity
+Remote update functionallity
 - First of all choose your robots you want to update remotely by clicking on each robot in the list
   and Check Remote update if needed
 ![image](https://github.com/2onk/UR_Manager/assets/122785824/a3d6c032-472f-4d6b-a138-ec0f3c5990e8)
@@ -55,9 +67,7 @@ Added: Remote update functionallity
 Change to Settings and choose Update.
 Browse your .urup file and start remote update by clicking on Button Update Robots. 
 
-*Added http request with CPU information and timestamp
-
 ![image](https://github.com/2onk/UR_Manager/assets/122785824/91ee94d1-0423-4983-b82a-3c27523cd11b)
-
+-------------------------------------------------------------------------------------------------
 
 
