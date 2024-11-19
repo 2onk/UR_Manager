@@ -28,7 +28,8 @@ Added new functionality:
 - give your Bits your custom label
 - Click the button to generate ... thats it. 
 
-![image](https://github.com/user-attachments/assets/a4818740-2df4-40b7-8e8b-7d31a6d206f1)
+![image](https://github.com/user-attachments/assets/059072e2-61ee-4605-8577-2a244d3f2ca9)
+
 
 
 -------------------------------------------------------------------------------------------------
