@@ -8,7 +8,9 @@ Please note that this software is not an official Product from and not related t
 
 
 Universal-Robot-fleet-manager
-OpenSourceCode will be released later on. 
+
+Frontend WinUI3 source code: https://github.com/2onk/URManager.View
+Backend source code: https://github.com/2onk/URManager.Backend
 
 
 This tool will help you to automate your supportfile/backup process with predefined time intervalls. 
